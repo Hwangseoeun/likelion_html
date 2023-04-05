@@ -1,0 +1,18 @@
+@import url('https://fonts.google.com/specimen/Song+Myung?subset=korean&noto.script=Kore');
+
+
+header{
+    font-family: 'Song Myung', serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+
+main{
+    font-family: 'Gowun Batang', serif;
+}
+
+body{
+    background-image: url("./images/background_img.jpeg");
+    background-size: cover;
+}
