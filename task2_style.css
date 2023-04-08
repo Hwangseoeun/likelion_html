@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@700&display=swap');
+
+.left_background{
+    background-color: rgb(87, 108, 188, 0.3);
+    margin-top: 0px;
+    margin-left: 180px;
+    width: 550px;
+    height: 800px; 
+}
+
+.right_background{
+    background-color: rgb(25, 55, 109, 0.3);
+    margin-top: -815px;
+    margin-left: 920px;
+    width: 550px;
+    height: 800px; 
+}
+
+.profile{
+    font-family: 'Alkatra', cursive;
+    font-size: 45px;
+    margin-top: 0px;
+    margin-left: 762px;
+    width: 500px;
+    height: 40px;
+}
+
+.face_main{
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 220px;
+    height: 250px; 
+    border-radius: 70%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.face_sub{
+    margin-top: 72px;
+    margin-left: 50px;
+    width: 220px;
+    height: 250px; 
+    border-radius: 70%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.introduce_left_top{
+    margin-top: -180px;
+    margin-left: 310px;
+    width: 220px;
+    height: 250px; 
+}
+
+.introduce_left_bottom{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.introduce_right_top{
+    margin-top: -180px;
+    margin-left: 270px;
+}
+
+.introduce_right_bottom{
+    margin-top: 175px;
+    margin-left: 70px;
+}
